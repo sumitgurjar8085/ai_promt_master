@@ -1,0 +1,7 @@
+{
+  "name": "AI Prompt Master",
+  "description": "Gamified AI prompt unlock system with tokens, daily streak, prompt engineering guide, and categorized prompts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
